@@ -3,6 +3,7 @@
 
 /* Estiliza o corpo da página */
 body {
+  background-image: url(https://wallpapers.com/images/hd/itachi-artwork-4k-ultra-hd-naruto-fo9d12cc1snk7rg3.jpg);
   font-family: "Chakra Petch", sans-serif; /* Define a fonte padrão */
   background-color: #dddddd; /* Cor de fundo da página */
   display: flex; /* Usa Flexbox para layout */
@@ -17,7 +18,7 @@ body {
 /* Estiliza os títulos h1 */
 h1 {
   font-size: 2.5rem; /* Tamanho da fonte */
-  color: #222831; /* Cor do texto */
+  color: white; /* Cor do texto */
   text-align: center; /* Alinha o texto ao centro */
   letter-spacing: 0.4rem; /* Espaçamento entre letras */
 }
