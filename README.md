@@ -27,16 +27,15 @@ Uso
 Abra o arquivo index.html no seu navegador web.
 Use a barra de busca para digitar o nome de um personagem de Naruto.
 Veja os resultados da busca à medida que aparecem abaixo da barra de busca.
+```
 
-
-
-Contribuições
+## Contribuições
 Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, por favor, abra uma issue ou envie um pull request.
 
-Licença
+## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
 
-Agradecimentos
+## Agradecimentos
 Alura pela experiência de aprendizado imersiva.
 Google Gemini por fornecer a plataforma de desenvolvimento.
 A comunidade Naruto pela inspiração e dados dos personagens.
